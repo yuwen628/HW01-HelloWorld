@@ -22,7 +22,7 @@ No build step or installations required!
    ```
 2. Navigate into the project folder:
    ```bash
-   cd WH1-HelloWorld
+   cd HW01-HelloWorld
    ```
 3. Open `index.html` directly in your favorite web browser, or launch it with a local server:
    - For VS Code users: Use the **Live Server** extension.
